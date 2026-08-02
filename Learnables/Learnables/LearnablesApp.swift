@@ -1,0 +1,17 @@
+//
+//  LearnablesApp.swift
+//  Learnables
+//
+//  Created by Elliot Williams on 2025-07-02.
+//
+
+import SwiftUI
+
+@main
+struct LearnablesApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
